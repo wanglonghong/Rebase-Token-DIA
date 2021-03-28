@@ -1,0 +1,6 @@
+Executor_httpProvider= 'https://data-seed-prebsc-1-s2.binance.org:8545'
+Executor_contractAddress= '0x29997542E2F06fb08206b6e1C75f9358682DC0B6'
+Executor_privateKey= ''
+Executor_chainId=97
+Executor_reqConfirmations= 2
+
